@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+#tomjerry{
+    background-color: #fAB201;
+}
+#shinchan{
+    background-color: #fb4f93;
+}
+#pokemon{
+    background-color: #00C7DA;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin: 20px;
+    text-decoration: none;
+    font-size: 4em;
+}
+h2{
+    font-size: 4em;
+}
+p{
+    font-size: 1.5em;
+    font-style: italic;
+}
+img{
+    border: 5px solid black;
+}
